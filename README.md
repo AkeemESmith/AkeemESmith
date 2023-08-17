@@ -4,4 +4,4 @@ I'm a full-stack engineer based out of Austin, Texas. Most recently, I've been w
 
 Tech Stack:
 
-TypeScript React Redux NodeJS React Express.js MongoDB Postgres GraphQL HTML5 CSS3 Webpack Git Python OAuth TDD Docker AWS
+TypeScript React Redux NodeJS React Express.js MongoDB Postgres GraphQL HTML5 CSS3 Webpack Git OAuth TDD Docker AWS
